@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone👋, I'm Hecate</h1>
-💫 About Me:
+
 I'm Hecate, a Python enthusiast who loves crafting command-line tools. I'm passionate about cryptocurrency, cybersecurity, web development, data science, and machine learning.
 
 
